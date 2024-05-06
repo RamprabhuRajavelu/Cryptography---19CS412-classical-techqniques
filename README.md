@@ -225,7 +225,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![2](https://github.com/Jothish741/Cryptography---19CS412-classical-techqniques/assets/127813293/e805bb7d-7c31-4ac7-ae6c-aaea64d3c470)
+![Screenshot (45)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/8d0b061e-2cc7-472d-b3d3-0b7fca3603cd)
 
 
 ## RESULT:
