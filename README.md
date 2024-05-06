@@ -71,7 +71,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot (7)](https://github.com/Jothish741/Cryptography---19CS412-classical-techqniques/assets/127813293/0aa53c44-943a-4006-96a7-ab4db0b7f296)
+![Screenshot (44)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/7244f2b3-e9da-429c-8202-37803d8d1e8b)
 
 
 
