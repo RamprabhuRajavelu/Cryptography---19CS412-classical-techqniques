@@ -309,7 +309,6 @@ int main()
 ```
 ## OUTPUT:
 
-![Screenshot (9)](https://github.com/Jothish741/Cryptography---19CS412-classical-techqniques/assets/127813293/ef36153f-86d7-4d5e-8978-312dacb9b915)
 
 
 ## RESULT:
