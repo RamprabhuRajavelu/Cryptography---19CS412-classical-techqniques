@@ -309,6 +309,7 @@ int main()
 ```
 ## OUTPUT:
 
+![Screenshot (47)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/b573e9d6-adb7-40ad-b44f-7c4382693561)
 
 
 ## RESULT:
@@ -425,9 +426,10 @@ int main() {
 
 ```
 ## OUTPUT:
-![Screenshot (10)](https://github.com/Jothish741/Cryptography---19CS412-classical-techqniques/assets/127813293/4637407e-8831-4cc9-af70-b44ce2afc07b)
 
+![Screenshot (50)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/6577ae04-6710-4cbe-94d7-53bf6faa48cd)
 
+![Screenshot (49)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/0bbcf151-e702-4ff9-a4db-de22d65bde62)
 
 
 ## RESULT:
@@ -580,9 +582,10 @@ int main() {
 ```
 ## OUTPUT:
 ## Encryption:
-![Screenshot (11)](https://github.com/Jothish741/Cryptography---19CS412-classical-techqniques/assets/127813293/e9528a4d-12e0-4dd7-92a2-f2eefd2e6344)
 
+![Screenshot (53)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/82e651dd-c101-49b2-a03b-3e26899e101c)
 
+![Screenshot (54)](https://github.com/RamprabhuRajavelu/Cryptography---19CS412-classical-techqniques/assets/120629062/668ceda1-413b-4cf2-a960-f15bf18417af)
 
 ## RESULT:
 The program is executed successfully
